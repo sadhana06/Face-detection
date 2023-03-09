@@ -1,4 +1,4 @@
-# Face-detection
+# Face-detection from webcam
 Face detection in webcam using python with the help of OpenCV.
 
 
